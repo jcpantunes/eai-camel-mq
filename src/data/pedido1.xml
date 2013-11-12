@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pedido>
+  <PedidoID>1</PedidoID>	
+  <Itens> 
+	  <ItemPedido ItemID="1">CAFE</ItemPedido>  
+	  <ItemPedido ItemID="2">LEITE</ItemPedido>  
+	  <ItemPedido ItemID="3">CAPPUCINO</ItemPedido>  
+	  <ItemPedido ItemID="4">CAPPUCINO</ItemPedido> 
+	  <ItemPedido ItemID="5">CAFE</ItemPedido>  
+	  <ItemPedido ItemID="6">LEITE</ItemPedido>  
+	  <ItemPedido ItemID="7">CAPPUCINO</ItemPedido>  
+	  <ItemPedido ItemID="8">CAPPUCINO</ItemPedido> 
+	  <ItemPedido ItemID="9">CAFE</ItemPedido>  
+	  <ItemPedido ItemID="10">LEITE</ItemPedido>  
+	  <ItemPedido ItemID="11">FRAPPUCINO</ItemPedido> 
+  </Itens>
+</Pedido>
