@@ -1,4 +1,5 @@
-<h1>Exemplo Prático de Integração usando Apache Camel</h1>
+<h1>Exemplo Prático de Integração<h1>
+<h2>Apache Camel</h2>
 <p>Autor: Adriano Tavares</p>
 <p>PUC/MG São Gabriel</p>
-<h2>Arquitetura de Software Distribuído</h2>
+<h3>Arquitetura de Software Distribuído</h3>
