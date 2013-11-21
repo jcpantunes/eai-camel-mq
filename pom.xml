@@ -21,8 +21,8 @@
 
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>exercicio_aula03</groupId>
-  <artifactId>exercicio_aula03</artifactId>
+  <groupId>EAIMagento</groupId>
+  <artifactId>EAIMagento</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
 
